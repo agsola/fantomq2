@@ -62,12 +62,17 @@ Also, the longer an NFT is held, the more value it accumulates (as the value is 
 
 These three factors collectively contribute to the final amount refunded when an NFT is burned in 721Fi. By carefully considering these aspects, users can strategically navigate the burn-to-withdraw process to optimize their returns and maximize the benefits of holding their NFTs.
 
+![image](https://github.com/agsola/fantomq2/assets/2536169/512ecbe5-6301-4abe-b671-4c220dba4ea0)
+
+
 ### Staking
 721Fi harnesses the power of the DeFi ecosystem and liquid staking tokens on (or bridged to) Fantom, providing users with a robust staking mechanism that generates a high yield. The yield will depend on the staking token used. By integrating staking into the 721Fi, NFT holders have the opportunity to actively participate in the growth and value appreciation of their NFT holdings. Unlike traditional scenarios where NFTs may gradually lose value over time, 721Fi flips the script by enabling NFTs to accrue value over time through staking. We not only stake the minting fee but also enable manual and automatic reinvestment to auto-compound the yield of the underlying NFT value (only applies on liquid staking that rebase, like deprecated Ankr version).
 
 When users mint the NFTs, they indirectly contribute to the overall ecosystem and play a vital role in its development. In return for their participation, NFT holders receive rewards based on the value they add. This alignment of interests between NFT holders and the 721Fi community fosters a vibrant and engaged user base, where users are incentivized to actively support and contribute to the success of the platform.
 
 Through the powerful combination of staking and NFT ownership, 721Fi empowers users to not only enjoy the aesthetic and community aspects of their NFTs but also actively generate additional income and enhance the value of their digital assets.
+
+![image](https://github.com/agsola/fantomq2/assets/2536169/935932a1-9a26-47f7-9725-2f20a42db2ce)
 
 
 ### Fund your NFT
