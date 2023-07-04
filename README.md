@@ -153,7 +153,7 @@ This feature allows NFT owners to individually withdraw both rewards they have g
 
 4.  **ERC-721Fi - New ERC-721 Standard Extension**: 721Fi's extension of the ERC-721 standard promotes openness and inclusivity within the Fantom ecosystem. By providing an accessible definition and implementation, 721Fi encourages developers and users to explore the potential of this new extension, fostering collaboration, interoperability, and a thriving blockchain community.
 
-5.  **Increased Security**: The adoption of FiNFT and its staking mechanisms bolsters the security of the Fantom ecosystem. More people will stake. With a higher Total Value Locked (TVL) resulting from the integration of FiNFT, the Fantom network becomes more resilient against potential attacks, ensuring a safer and more robust environment for all participants.
+5.  **Increased Security**: The adoption of 721Fi and its staking mechanisms bolsters the security of the Fantom ecosystem. More people will stake. With a higher Total Value Locked (TVL) resulting from the integration of 721Fi, the Fantom network becomes more resilient against potential attacks, ensuring a safer and more robust environment for all participants.
 
 
 Through its revolutionary features, 721Fi actively contributes to the evolution and revitalization of the Fantom ecosystem, creating a dynamic and secure environment that enables users to explore new possibilities, maximize their assets, and drive the future growth of the network.
