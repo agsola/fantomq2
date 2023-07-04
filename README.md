@@ -2,6 +2,8 @@
 ## Boosting Intrinsic Value in NFTs Through Burn-to-Withdraw and Staking
 
 Introducing **ERC-721Fi**, a groundbreaking standard extension and dApp that revolutionizes the world of Non-Fungible Tokens (NFTs) by unlocking and amplifying their intrinsic value. With 721Fi, you can **say goodbye to concerns about scams and dropping collection floor prices**.
+![image](https://github.com/agsola/fantomq2/assets/2536169/a00c90ec-e6a3-42e7-b31d-1222da74e4bb)
+
 
 By combining the power of the "burn-to-withdraw" and staking, 721Fi establishes a unique synergy that transcends the mere artistic and community appeal of NFTs. It **empowers NFT owners** to not only enjoy the benefits of owning rare digital assets and participating in vibrant communities but also venture into a whole new realm of economic possibilities.
 
@@ -20,6 +22,8 @@ Avaialable at: https://721fi.xyz/demo/
 **721Fi** is an all-encompassing platform that serves a dual purpose.
 
 **Firstly**, it provides users with a user-friendly and comprehensive platform to effortlessly **create, deploy, and manage their NFT collections and communities**. Best of all, this platform is available to users completely free of charge and offers advanced functionalities to enhance the NFT creation experience.
+![image](https://github.com/agsola/fantomq2/assets/2536169/2a9ff085-3208-4549-a60c-b03b0187b701)
+
 
 **Secondly**, 721Fi introduces a groundbreaking **paradigm of DeFi NFTs** through the integration of staking and burn-to-withdraw mechanisms. With 721Fi, concerns about scams and questionable projects become a thing of the past.
 
@@ -32,6 +36,10 @@ The creation process within 721Fi revolves around four key pillars:
 3.  **Deployment**: 721Fi empowers users to create and deploy their NFT contracts on the Fantom blockchain, ensuring immutability, verification, and public accessibility. The platform's optimized system boasts ultra-low contract deployment fees while retaining advanced functionalities such as random minting, AI-generated content, and soulbound tokens. Additionally, 721Fi offers the option to utilize upgradeable contracts, enabling users to take advantage of upcoming features. Upon deploying a collection, users receive an NFT representing ownership.
 
 4.  **Administration**: The administration pillar focuses on facilitating efficient collection management and nurturing the community aspect of the NFT lifecycle. Users can create custom subdomains or minting widgets for their own websites, modify collection settings, and engage with their community in meaningful ways.
+
+
+![image](https://github.com/agsola/fantomq2/assets/2536169/baf7782a-d7b6-4810-969c-23b811a3ff50)
+
 
 Now, let's delve into some of the fantastic features that make 721Fi truly unique.
 
@@ -122,6 +130,8 @@ This feature allows NFT owners to individually withdraw both rewards they have g
 2.  **Reduced Risk and Increased Trust**: The burn-to-withdraw mechanism mitigates the risk of losing money on NFT purchases. Collectors have the option to burn their NFTs and receive a refund, ensuring a safety net and fostering trust in the 721Fi ecosystem.
 
 3.  **Opportunity for Yield Generation**: By staking their NFTs through the Fantom staking mechanisms, collectors can actively participate in the growth of their NFT holdings and earn rewards based on their contribution. This incentivizes long-term ownership and encourages collectors to actively engage in the 721Fi community, creating better and bigger NFT communities.
+
+![image](https://github.com/agsola/fantomq2/assets/2536169/50e96918-d962-4b25-9e42-d39b70d5f289)
 
 
 ### Benefits for Creators
