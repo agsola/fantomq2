@@ -168,6 +168,17 @@ Our technology simplifies the process of implementing a DAO (Decentralized Auton
 ## Authors
 - [@agsola](https://github.com/agsola)
 - [@nicolasmarin](https://github.com/nicolasmarin)
+
+
+## Most relevant contract addresses
+
+* ERC-721Fi (verified): [0x22bba8135833f9145458F9661cCf1a513DFA7D7C](https://ftmscan.com/address/0x22bba8135833f9145458f9661ccf1a513dfa7d7c)
+* ERC-721Fi Upgradeable (verified): [0xD50a9E8f318F00F18F9cc8EFbbB7Ae2fF98927Ae](https://ftmscan.com/address/0xD50a9E8f318F00F18F9cc8EFbbB7Ae2fF98927Ae)
+  
+
+## Source-code
+
+* https://github.com/agsola/fantomq2
   
 ## Feedback
 
